@@ -1,0 +1,21 @@
+{
+
+  "noRefundSlider":{
+    "floor": 0,
+    "ceil": 500,
+    "value": 0
+  },
+  "bank": {},
+  "product":{},
+
+  "bankFeeOther":0,
+  "processFeeOther":0,
+  "incentiveOther":0,
+  "totalOther":0,
+
+  "bankFeePro": 0,
+  "processFeePro":0,
+  "incentivePro":0,
+  "totalPro":0,
+  "difference":0
+}

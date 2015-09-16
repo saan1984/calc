@@ -1,0 +1,74 @@
+[
+  {
+    "intuitProduct": false,
+    "name": "Drake",
+    "transmissionFee": 0,
+    "technologyFee": 14.00,
+    "overWitholding": true,
+    "softwareCost": 0,
+    "rtBonus": 0
+  },
+  {
+    "intuitProduct": false,
+    "name": "TaxSlayer",
+    "transmissionFee": 6.00,
+    "technologyFee": 18.00,
+    "overWitholding": true,
+    "softwareCost": 0,
+    "rtBonus": 0
+  },
+  {
+    "intuitProduct": false,
+    "name": "Crosslink",
+    "transmissionFee": 0,
+    "technologyFee": 20.00,
+    "overWitholding": true,
+    "softwareCost": 0,
+    "rtBonus": 0
+  },
+  {
+    "intuitProduct": false,
+    "name": "ATX",
+    "transmissionFee": 10.00,
+    "technologyFee": 15.00,
+    "overWitholding": true,
+    "softwareCost": 0,
+    "rtBonus": 0
+  },
+  {
+    "intuitProduct": false,
+    "name": "TaxWise",
+    "transmissionFee": 10.00,
+    "technologyFee": 15.00,
+    "overWitholding": true,
+    "softwareCost": 0,
+    "rtBonus": 0
+  },
+  {
+    "intuitProduct": false,
+    "name": "TaxWare/WinTax",
+    "transmissionFee": 0.00,
+    "technologyFee": 0.00,
+    "overWitholding": true,
+    "softwareCost": 0,
+    "rtBonus": 0
+  },
+  {
+    "intuitProduct": false,
+    "name": "TaxAct",
+    "transmissionFee": 7.00,
+    "technologyFee": 14.00,
+    "overWitholding": true,
+    "softwareCost": 0,
+    "rtBonus": 0
+  },
+  {
+    "intuitProduct": true,
+    "name": "ProSeries",
+    "transmissionFee": 0,
+    "technologyFee": 0,
+    "overWitholding": false,
+    "softwareCost": 0,
+    "rtBonus": 10
+  }
+]

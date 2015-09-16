@@ -1,0 +1,9 @@
+[
+  {"bankFeeOther":"noOfRefund * bank.fee"},
+  {"processFeeOther":"noOfRefund * (product.technologyFee + product.transmissionFee)"},
+  {"incentiveOther":"product.rtBonus"},
+  {"totalOther":"data.bankFeeOther+data.processFeeOther+data.incentiveOther"},
+  {"difference":"totalOther - totalPro"}
+
+]
+
